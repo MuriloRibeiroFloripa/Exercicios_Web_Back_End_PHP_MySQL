@@ -1,7 +1,7 @@
 <nav>
 	<ul>
 		<li><a href="../index.php">Voltar a Pagina Principal</a></li>
-        <li><a href="exercicio2.php">Exercicio1</a></li>
+        <li><a href="exercicio2.php">Exercicio 2</a></li>
     </ul>
 </nav
 
