@@ -23,6 +23,8 @@
         <p>Faça um programa para calcular a área de um triângulo.
         <li><a href="exercicio5/exercicio5.php">Exercicio 5</a></li>
         <p>Faça um programa para calcular a tabuada do X. </p>
+        <li><a href="exercicio6/exercicio6.php">Exercicio 6</a></li>
+        <p>Faça um programa para calcular a tabuada do 2. </p>
       </ul>
   </nav>
  
