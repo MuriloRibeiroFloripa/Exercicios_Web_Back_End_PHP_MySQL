@@ -21,6 +21,8 @@
         <p>Faça um programa para calcular a média de 4 valores.
         <li><a href="exercicio4/exercicio4.php">Exercicio 4</a></li>
         <p>Faça um programa para calcular a área de um triângulo.
+        <li><a href="exercicio5/exercicio5.php">Exercicio 5</a></li>
+        <p>Faça um programa para calcular a tabuada do X. </p>
       </ul>
   </nav>
  
