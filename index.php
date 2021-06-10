@@ -13,8 +13,10 @@
 
 	<nav>
       <ul>
-        <li><a href="exercicio1/exercicio1.php">Exercicio1</a></li>
+        <li><a href="exercicio1/exercicio1.php">Exercicio 1</a></li>
         <p>Fazer um Programa para somar dois Números.</p>
+        <li><a href="exercicio2/exercicio2.php">Exercicio 2</a></li>
+        <p>Fazer um Programa para somar três Números.
       </ul>
   </nav>
  
