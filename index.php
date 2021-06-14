@@ -25,9 +25,13 @@
         <p>Faça um programa para calcular a tabuada do X. </p>
         <li><a href="exercicio6/exercicio6.php">Exercicio 6</a></li>
         <p>Faça um programa para calcular a tabuada do 2. </p>
+        <li><a href="exercicio7/exercicio7.php">Exercicio 7</a></li>
+        <p>Programa para calcular a quantidade de BTUs de um ar-condicionado em um Ambiente.</p>
+        <li><a href="exercicio8/exercicio8.php">Exercicio 8</a></li><br>
       </ul>
   </nav>
  
+
 </body>
 
 </html>
