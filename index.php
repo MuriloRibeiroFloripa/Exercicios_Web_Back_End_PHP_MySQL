@@ -1,16 +1,12 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Exercícios</title>
 	<link rel="stylesheet" href="">
 </head>
-
 <body>
-
 	<nav>
       <ul>
         <li><a href="exercicio1/exercicio1.php">Exercicio 1</a></li>
@@ -28,10 +24,12 @@
         <li><a href="exercicio7/exercicio7.php">Exercicio 7</a></li>
         <p>Programa para calcular a quantidade de BTUs de um ar-condicionado em um Ambiente.</p>
         <li><a href="exercicio8/exercicio8.php">Exercicio 8</a></li><br>
+        <p>Faça um programa que calcule uma prestação em atraso.</p>
+        <li><a href="exercicio9/exercicio9.php">Exercicio 9</a></li><br>
+        <p>Programa que imprima o seu nome, o salário fixo e salário no final do mês (salário fixo + comissão).</p>
+        <p>Faça um programa que calcule uma prestação em atraso.</p>
+        <li><a href="exercicio10/exercicio10.php">Exercicio 10</a></li><br>
       </ul>
   </nav>
- 
-
 </body>
-
 </html>
