@@ -31,6 +31,10 @@
         <p>Programa para calcular a área do triângulo, quadrado, círculo, retângulo e trapézio.</p>
         <li><a href="exercicio11/exercicio11.php">Exercicio 11</a></li>
         <p>Programa para calcular o Índice de Massa Corporal (IMC) de uma pessoa.</p>
+        <li><a href="exercicio12/exercicio12.php">Exercicio 12</a></li>
+        <p>Conversão de dolar para real.</p>
+        <li><a href="exercicio13/exercicio13.php">Exercicio 13</a></li>
+        <p>Consumo médio veiculo.</p>
       </ul>
   </nav>
 </body>

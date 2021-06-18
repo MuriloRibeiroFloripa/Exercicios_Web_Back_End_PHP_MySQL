@@ -25,7 +25,7 @@
       </ul>
        </nav>
   <center>
-   <form method="POST" action="quadrado.php">
+   <form method="POST" action="retangulo.php">
       <label>  </label>
       <br>
       <table bgcolor="silver" width="18%" cellpadding="8">
