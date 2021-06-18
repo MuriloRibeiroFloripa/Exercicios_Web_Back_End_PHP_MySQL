@@ -23,12 +23,11 @@
         <p>Faça um programa para calcular a tabuada do 2. </p>
         <li><a href="exercicio7/exercicio7.php">Exercicio 7</a></li>
         <p>Programa para calcular a quantidade de BTUs de um ar-condicionado em um Ambiente.</p>
-        <li><a href="exercicio8/exercicio8.php">Exercicio 8</a></li><br>
+        <li><a href="exercicio8/exercicio8.php">Exercicio 8</a></li>
         <p>Faça um programa que calcule uma prestação em atraso.</p>
-        <li><a href="exercicio9/exercicio9.php">Exercicio 9</a></li><br>
-        <p>Programa que imprima o seu nome, o salário fixo e salário no final do mês (salário fixo + comissão).</p>
-        <p>Faça um programa que calcule uma prestação em atraso.</p>
-        <li><a href="exercicio10/exercicio10.php">Exercicio 10</a></li><br>
+        <li><a href="exercicio9/exercicio9.php">Exercicio 9</a></li>
+        <p>Programa que imprima o seu nome, o salário fixo e salário no final do mês (salário fixo + comissão).
+        <li><a href="exercicio10/exercicio10.php">Exercicio 10</a></li>
       </ul>
   </nav>
 </body>

@@ -44,7 +44,7 @@
           <td><label><strong> Salario final: </strong></label></td>
           <td><?php echo $salarioFinal?></td>        
         </tr>        
-      </table>
-      </center>
+    </table>
+    </center>
 </body>
 </html>
