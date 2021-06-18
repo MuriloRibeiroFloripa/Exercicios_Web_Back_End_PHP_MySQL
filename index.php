@@ -12,11 +12,11 @@
         <li><a href="exercicio1/exercicio1.php">Exercicio 1</a></li>
         <p>Fazer um Programa para somar dois Números.</p>
         <li><a href="exercicio2/exercicio2.php">Exercicio 2</a></li>
-        <p>Fazer um Programa para somar três Números.
+        <p>Fazer um Programa para somar três Números.</p>
         <li><a href="exercicio3/exercicio3.php">Exercicio 3</a></li>
-        <p>Faça um programa para calcular a média de 4 valores.
+        <p>Faça um programa para calcular a média de 4 valores.</p>
         <li><a href="exercicio4/exercicio4.php">Exercicio 4</a></li>
-        <p>Faça um programa para calcular a área de um triângulo.
+        <p>Faça um programa para calcular a área de um triângulo.</p>
         <li><a href="exercicio5/exercicio5.php">Exercicio 5</a></li>
         <p>Faça um programa para calcular a tabuada do X. </p>
         <li><a href="exercicio6/exercicio6.php">Exercicio 6</a></li>
@@ -26,8 +26,11 @@
         <li><a href="exercicio8/exercicio8.php">Exercicio 8</a></li>
         <p>Faça um programa que calcule uma prestação em atraso.</p>
         <li><a href="exercicio9/exercicio9.php">Exercicio 9</a></li>
-        <p>Programa que imprima o seu nome, o salário fixo e salário no final do mês (salário fixo + comissão).
+        <p>Programa que imprima o seu nome, o salário fixo e salário no final do mês (salário fixo + comissão).</p>
         <li><a href="exercicio10/exercicio10.php">Exercicio 10</a></li>
+        <p>Programa para calcular a área do triângulo, quadrado, círculo, retângulo e trapézio.</p>
+        <li><a href="exercicio11/exercicio11.php">Exercicio 11</a></li>
+        <p>Programa para calcular o Índice de Massa Corporal (IMC) de uma pessoa.</p>
       </ul>
   </nav>
 </body>
