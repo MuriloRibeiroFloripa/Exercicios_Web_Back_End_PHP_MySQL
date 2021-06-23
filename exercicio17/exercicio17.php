@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Exercícios 16</title>
+	<title>Exercícios 15</title>
 	<link rel="stylesheet" href="">
 </head>
 
@@ -27,8 +27,8 @@
         <li><a href="../exercicio12/exercicio12.php">Exercicio 12</a></li>
         <li><a href="../exercicio13/exercicio13.php">Exercicio 13</a></li>
         <li><a href="../exercicio15/exercicio15.php">Exercicio 15</a></li>
-        <p><b><h1>Exercicio 16:</h1> <br>
-        <p>Faça um programa para verificar se um determinado ano é bissexto.</p>
+        <p><b><h1>Exercicio 15:</h1> <br>
+        <p>Faça um programa para receber um número. Após, apresente se esse número é par ou ímpar.</p>
       </ul>         
   </nav>  
     <br>

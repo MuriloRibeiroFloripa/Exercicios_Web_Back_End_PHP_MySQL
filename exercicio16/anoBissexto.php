@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Exercício 15</title>
+    <title> Exercício 16</title>
     <link rel="stylesheet" href="">
 </head>
 <body>
@@ -26,7 +26,7 @@
         <li><a href="../exercicio14/exercicio14.php">Exercicio 14</a></li>
         <li><a href="../exercicio15/exercicio15.php">Exercicio 15</a></li>
         <li><a href="../exercicio16/exercicio16.php">Exercicio 16</a></li>
-        <p><b><h1>Exercicio 15:</h1> <br>  
+        <p><b><h1>Exercicio 16:</h1> <br>  
     </ul>
     </nav>
     <?php 
