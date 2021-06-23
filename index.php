@@ -37,6 +37,8 @@
         <p>Consumo médio veiculo.</p>
         <li><a href="exercicio14/exercicio14.php">Exercicio 14</a></li>
         <p>Faça um programa para receber um número. Após, apresente se esse número é positivo ou negativo.</p>
+        <li><a href="exercicio15/exercicio15.php">Exercicio 15</a></li>
+        <p>Faça um programa para receber um número. Após, apresente se esse número é par ou ímpar.</p>
       </ul>
   </nav>
 </body>
