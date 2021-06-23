@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Exercício 15</title>
+    <title> Exercício 17</title>
     <link rel="stylesheet" href="">
 </head>
 <body>
@@ -26,20 +26,23 @@
         <li><a href="../exercicio14/exercicio14.php">Exercicio 14</a></li>
         <li><a href="../exercicio15/exercicio15.php">Exercicio 15</a></li>
         <li><a href="../exercicio16/exercicio16.php">Exercicio 16</a></li>
-        <p><b><h1>Exercicio 15:</h1> <br>  
+        <li><a href="../exercicio17/exercicio17.php">Exercicio 17</a></li>
+        <p><b><h1>Exercicio 17:</h1> <br>  
     </ul>
     </nav>
     <?php 
-    $ano = @$_POST['ano'];
+    $idade = @$_POST['idade'];
    
 
-      if (($ano % 100 != 0 && $ano % 4 == 0) || ($ano % 400 == 0)) {   
-        echo ("<br><br><center><table bgcolor=silver><tr><td><strong> $ano = ano Bissexto </strong></td></tr></table></center>");
+      if ($idade >= 18) {   
+        echo ("<br><br><center><table bgcolor=silver><tr><td><strong> $idade = anos maior de idade </strong></td></tr></table></center>");
       }
-      else {
-        echo ("<br><br><center><table bgcolor=silver><tr><td><strong> $ano = não é ano Bissexto </strong></td></tr></table></center>");
+      else if(($idade < 18) && ($idade >= 0)){
+        echo ("<br><br><center><table bgcolor=silver><tr><td><strong> $idade = anos menos de idade </strong></td></tr></table></center>");
       }
-        
+      else{
+         echo ("<br><br><center><table bgcolor=silver><tr><td><strong> $idade = idade inválida </strong></td></tr></table></center>");
+      }
      ?>
     
 

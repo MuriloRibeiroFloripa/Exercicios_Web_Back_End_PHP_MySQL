@@ -41,6 +41,9 @@
         <p>Faça um programa para receber um número. Após, apresente se esse número é par ou ímpar.</p>
         <li><a href="exercicio16/exercicio16.php">Exercicio 16</a></li>
         <p>Faça um programa para verificar se um determinado ano é bissexto.</p>
+        <li><a href="exercicio17/exercicio17.php">Exercicio 17</a></li>
+        <p>Faça um programa para receber a idade de uma pessoa. Após, apresente se essa pessoa é maior de idade ou menor de idade.</p>
+
       </ul>
   </nav>
 </body>

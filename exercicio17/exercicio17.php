@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Exercícios 15</title>
+	<title>Exercícios 17</title>
 	<link rel="stylesheet" href="">
 </head>
 
@@ -26,18 +26,21 @@
         <li><a href="../exercicio11/exercicio11.php">Exercicio 11</a></li>
         <li><a href="../exercicio12/exercicio12.php">Exercicio 12</a></li>
         <li><a href="../exercicio13/exercicio13.php">Exercicio 13</a></li>
-        <li><a href="../exercicio15/exercicio15.php">Exercicio 15</a></li>
-        <p><b><h1>Exercicio 15:</h1> <br>
-        <p>Faça um programa para receber um número. Após, apresente se esse número é par ou ímpar.</p>
+        <li><a href="../exercicio14/exercicio14.php">Exercicio 14</a></li>
+         <li><a href="../exercicio15/exercicio15.php">Exercicio 15</a></li>
+          <li><a href="../exercicio16/exercicio16.php">Exercicio 16</a></li>
+           <li><a href="../exercicio17/exercicio17.php">Exercicio 17</a></li>
+        <p><b><h1>Exercicio 17:</h1> <br>
+        <p>Faça um programa para receber a idade de uma pessoa. Após, apresente se essa pessoa é maior de idade ou menor de idade. Certifique que a pessoa não informe um número negativo para a idade, caso informe, apresente na tela: idade inválida e encerre o programa.</p>
       </ul>         
   </nav>  
     <br>
-    <form method="post" action="anoBissexto.php">
+    <form method="post" action="idade.php">
       <center>
         <table bgcolor="silver">
         <tr>
-            <td><label> Informe ano: exemplo [2021]: </label></td>
-            <td><input type="text" name="ano"></td>        
+            <td><label> Informe a idade: </label></td>
+            <td><input type="number" name="idade"></td>        
         </tr>
         <tr>        
             <td></td>       
