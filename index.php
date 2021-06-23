@@ -35,6 +35,8 @@
         <p>Conversão de dolar para real.</p>
         <li><a href="exercicio13/exercicio13.php">Exercicio 13</a></li>
         <p>Consumo médio veiculo.</p>
+        <li><a href="exercicio14/exercicio14.php">Exercicio 14</a></li>
+        <p>Faça um programa para receber um número. Após, apresente se esse número é positivo ou negativo.</p>
       </ul>
   </nav>
 </body>
