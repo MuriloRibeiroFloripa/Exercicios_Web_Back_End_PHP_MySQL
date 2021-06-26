@@ -44,7 +44,9 @@
         <li><a href="exercicio17/exercicio17.php">Exercicio 17</a></li>
         <p>Faça um programa para receber a idade de uma pessoa. Após, apresente se essa pessoa é maior de idade ou menor de idade.</p>
         <li><a href="exercicio18/exercicio18.php">Exercicio 18</a></li>
-        <p>Faça um programa para receber duas notas, calcular a média e apresentar se o aluno está aprovado ou reprovado. </p>                
+        <p>Faça um programa para receber duas notas, calcular a média e apresentar se o aluno está aprovado ou reprovado. </p>
+        <li><a href="exercicio19/exercicio19.php">Exercicio 19</a></li>
+        <P>Programa calcular a média e apresentar se o aluno está aprovado ou reprovado. Para aprovação seja 6 e caso a média seja menor que 2 o aluno estará reprovado. Outros casos em exame.</P>                
       </ul>
   </nav>
 </body>
