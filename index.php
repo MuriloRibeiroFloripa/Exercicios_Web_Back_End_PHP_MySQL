@@ -47,6 +47,8 @@
         <p>Faça um programa para receber duas notas, calcular a média e apresentar se o aluno está aprovado ou reprovado. </p>
         <li><a href="exercicio19/exercicio19.php">Exercicio 19</a></li>
         <P>Programa calcular a média e apresentar se o aluno está aprovado ou reprovado. Para aprovação seja 6 e caso a média seja menor que 2 o aluno estará reprovado. Outros casos em exame.</P>                
+        <li><a href="exercicio20/exercicio20.php">Exercicio 20</a></li>
+        <P> Calcular a média e apresentar se o aluno está aprovado ou reprovado. A média para aprovação é 6, caso a média seja menor que 2 o aluno estará reprovado. Outros casos o aluno estará em exame. Caso o aluno esteja em exame, solicite a nota e considere que a nota para aprovação de alunos em exame seja maior ou igual a 5.</P>
       </ul>
   </nav>
 </body>
